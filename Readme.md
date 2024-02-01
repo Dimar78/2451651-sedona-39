@@ -11,19 +11,6 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 ---
 
-### Памятка
-
-#### 1. Зарегистрировался на Гитхабе
-
-
-#### 2. Создал копию
-
-
-#### 3. Скачал репозиторий на свой компьютер
-
-
-#### 4. Начинал обучение!
-
 ---
 
 <a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
