@@ -1,15 +1,3 @@
-# Личный проект «Седона»
-
-* Студент: [Дмитрий MF](https://up.htmlacademy.ru/htmlcss/39/user/2451651).
-* Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
-* Сайт: [Мой проект Седона](https://dimitriymf.github.io/2451651-sedona-39/)
-
----
-
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
-
-
 <!DOCTYPE html>
 <html lang="ru">
   <head>
