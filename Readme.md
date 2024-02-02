@@ -1,41 +1,40 @@
-<!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta charset="utf-8">
-    <title>Магазин товаров для дома</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="container">
-        <h1>Lamp</h1>
-        <p>Разнообразные товары для дома с доставкой по всей планете</p>
-      </div>
-    </header>
+# Личный проект «Седона»
 
-    <section class="features">
-      <h2>Что поможет вам создать домашний уют?</h2>
-      <p>Мебель и фурнитура</p>
-      <p>Лампы и торшеры</p>
-      <p>Аксессуары и мелочи </p>
-    </section>
+* Студент: [Дмитрий MF](https://up.htmlacademy.ru/htmlcss/39/user/2451651).
+* Наставник:[Иван Жарков](https://htmlacademy.ru/profile/id191422).
+* Сайт:[Мой проект Седона](https://dimitriymf.github.io/2451651-sedona-39/)
 
-    <section class="advantages">
-      <h2>Что выделяет нас среди конкурентов?</h2>
-      <ul class="advantages-list">
-        <li>Используем только природные материалы</li>
-        <li>Ежедневные отчёты о ходе работ</li>
-        <li>Сами соберём мебель для вас</li>
-        <li>Бесплатное гарантийное обслуживание в течение 10 лет</li>
-       <li> Доставка в день заказа </li>
-      </ul>
-    </section>
+---
 
-    <footer class="site-footer">
-      <div class="container">
-        <p>© Кекс, 2020</p>
-        <p>Магазин товаров для дома</p>
-      </div>
-    </footer>
-  </body>
-</html>
+_Не удаляйте и не обращайте внимание на файлы:_<br>
+_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+
+---
+
+### Памятка
+
+#### 1. Зарегистрируйтесь на Гитхабе
+
+Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+
+#### 2. Создайте копию
+
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2451651-sedona-39) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
+
+Получится вот так:
+
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
+
+#### 3. Скачайте репозиторий на свой компьютер
+
+Нажмите на зелёную кнопку «Code». Далее в выпавшем списке выберите пункт «Download ZIP». Выберите папку для скачивания на компьютер, например «Загрузки».
+
+#### 4. Начинайте обучение!
+
+---
+
+<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
+
+Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
